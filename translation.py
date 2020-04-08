@@ -23,8 +23,8 @@ Note: You must subscribe My updates Channel for using me 😌 👉 @Secretius
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "trying to download📥"
-    UPLOAD_START = "trying to upload📥"
+    DOWNLOAD_START = "<b>Trying to download📥"
+    UPLOAD_START = "<b>📥Uploading...</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please Subscribe to my channel if you me useful. Click here to subscribe: https://www.youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"
@@ -52,7 +52,7 @@ Updates Channel : @Secretius
 3. Reply the file - /rename New file Name
 👉 Sample for Rename Process..
 
-Note: You must subscribe My updates Channel for using me 😌 👉 @SecretiusGroup
+Note: You must subscribe My updates Channel for using me 😌 👉 @Secretius
 
 👉👉Do one By One rename. Otherwise you will get Permenent Ban
 --------
