@@ -1,21 +1,11 @@
 class Translation(object):
-    START_TEXT = """Thank You for using me.
+    START_TEXT = """Salom,
+🎯Bu Telegram File Rename Bot!
+Ushbu bot yordamida istalgan Telegram Fayl nomini ozgartirishingiz mumkin!
 
-Rename files with Custom Thumbnail Support..
+/help Qayta Nomlash uchun Korsatmalar
 
-Support Group : @SecretiusGroup
-Updates Channel : @Secretius
-1. Send file
-2. Send custom Thumbnail
-3. Reply the file - /rename New file Name
-<b>
-Note: You must subscribe My updates Channel for using me 😌 👉 @Secretius
-
-👉👉Do one By One rename. Otherwise you will get Permenent Ban
-</b>
-/help for more details..
-
-© @JokkerKing"""
+Aloqa : @JokkerKing""""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "This is Free Service. No Upgrade Plans 😜"
@@ -23,16 +13,16 @@ Note: You must subscribe My updates Channel for using me 😌 👉 @Secretius
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "<b>Trying to download📥"
-    UPLOAD_START = "<b>📥Uploading...</b>"
+    DOWNLOAD_START = "<b>Biroz Kuting📥 Fayl Qayta Nomlash Uchun Tayorlanmoqda </b>"
+    UPLOAD_START = "<b>📥Yuborilmoqda...</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please Subscribe to my channel if you me useful. Click here to subscribe: https://www.youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Iltimos Bu Botni Foydali Deb Bilsangiz bizni Kanalga Azo Boling: https://www.youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. Please Subscribe to my channel if you me useful. Click here to subscribe: https://www.youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/JokkerKing'>@JokkerKing</a>"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
+    SAVED_CUSTOM_THUMB_NAIL = "💾Foydalanuvchi rasmlari muvaffaqiyatli Saqlandi📥 endi Bemalol Fayl/Video Yuborishingiz Mumkin✔"
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Foydalanuvchi rasmlari muvaffaqiyatli tozalandi."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
@@ -45,18 +35,21 @@ Telegram ID: <code>{}</code>
 Plan name: Free User
 Expires on: Until My Death
 Please Subscribe to my channel if you me useful. Click here to subscribe: https://www.youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"""
-    HELP_USER = """Support Group : @SecretiusGroup
-Updates Channel : @Secretius
-1. Send file
-2. Send custom Thumbnail
-3. Reply the file - /rename New file Name
-👉 Sample for Rename Process..
+    HELP_USER = """<b>Botni Qanday ishlatish?</b>
+1.Faylni yuboring💾
+ 2.Maxsus eskizni yuboring u faylni Ustida Turadi (ixtiyoriy)🌌
+3.Repply qilib /rename va Unga yangi fayl nomini yozing. 📝
 
-Note: You must subscribe My updates Channel for using me 😌 👉 @Secretius
+<b>Eslatma ‼</b>️
+Maksimal Fayl Hajmi 1.5GB 
+Va Asossiysi Qayta Nomlayotganda Faylni kengaymasini Yozishni unutmang (.mp4 .apk .exe .zip) shunga oxshash📦
+  
+Qayta Nomlash Uchun Batafsil Malumot..
 
-👉👉Do one By One rename. Otherwise you will get Permenent Ban
---------
-Send /plan to know current plan details"""
+Endi Ozingiz Ham Shaxsiy URL Uploader Bot Yarating 👉 https://youtu.be/ct8M6Isanf8
+
+<b>🎓Admin:</b> @JokkerKing 
+<b>📣Kanalimiz:</b>https://youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
