@@ -44,9 +44,8 @@ Please Subscribe to my channel if you me useful. Click here to subscribe: https:
 Maksimal Fayl Hajmi 1.5GB 
 Va Asossiysi Qayta Nomlayotganda Faylni kengaymasini Yozishni unutmang (.mp4 .apk .exe .zip) shunga oxshash📦
   
-Qayta Nomlash Uchun Batafsil Malumot..
-
-Endi Ozingiz Ham Shaxsiy URL Uploader Bot Yarating 👉 https://youtu.be/ct8M6Isanf8
+Qayta Nomlash Uchun video darslik https://youtu.be/fRPIKhL1Eao
+Endi Ozingiz Ham  URL Uploader Bot Yarating 👉 https://youtu.be/ct8M6Isanf8
 
 <b>🎓Admin:</b> @JokkerKing 
 <b>📣Kanalimiz:</b>https://youtube.com/channel/UCOUMWBgL80w6SwG2T6wJbIQ"""
